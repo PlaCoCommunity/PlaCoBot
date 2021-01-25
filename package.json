@@ -1,0 +1,30 @@
+{
+  "name": "placobot",
+  "version": "1.0.0",
+  "description": "A Bot for PlaCoLive livestreams",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlaCoCommunity/PlaCoBot.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "Twitch",
+    "bot",
+    "PlaCoLive"
+  ],
+  "author": "PlaCoLive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlaCoCommunity/PlaCoBot/issues"
+  },
+  "homepage": "https://github.com/PlaCoCommunity/PlaCoBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.7.1"
+  }
+}
