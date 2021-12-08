@@ -23,6 +23,7 @@
     "url": "https://github.com/PlaCoCommunity/PlaCoBot/issues"
   },
   "homepage": "https://github.com/PlaCoCommunity/PlaCoBot#readme",
+  "type": "module",
   "dependencies": {
     "dotenv": "^8.2.0",
     "tmi.js": "^1.7.1"
